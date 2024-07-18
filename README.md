@@ -16,4 +16,4 @@ Looking for a remote job that pays in USD? Here are 10 websites where you can fi
 | 10         | Working Nomads  | [workingnomads.com](https://workingnomads.com) |
 
 
-For more remote job opportunities, check out [this link]([https://example.com](https://github.com/zeshanashraf829/remote_jobs)).
+For more remote job opportunities, check out [this link](https://github.com/zeshanashraf829/remote_jobs).
